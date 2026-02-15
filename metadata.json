@@ -1,0 +1,7 @@
+{
+  "name": "APLIKASI ADMINISTRASI WALI KELAS",
+  "description": "Aplikasi manajemen kelas futuristik untuk Guru Wali Kelas dengan integrasi AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
